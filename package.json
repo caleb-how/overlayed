@@ -1,0 +1,30 @@
+{
+  "name": "overlayed",
+  "version": "1.0.0",
+  "description": "A stream overlay tool",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caleb-how/overlayed.git"
+  },
+  "keywords": [
+    "twitch",
+    "streaming",
+    "overlay",
+    "chat",
+    "webcam"
+  ],
+  "author": "Caleb Ouellette",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caleb-how/overlayed/issues"
+  },
+  "homepage": "https://github.com/caleb-how/overlayed#readme",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
